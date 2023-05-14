@@ -1,4 +1,4 @@
-name: "Terraform"
+name: "Terraform Infra Provisioning"
 
 on:
   workflow_dispatch:
